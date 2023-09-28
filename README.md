@@ -5,11 +5,6 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -36,18 +31,22 @@ Stage 1: Intake
   
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/n8som/ticket-lifecycle/assets/110139109/268fd325-f920-4cfb-ba2d-b629dac60baf)
+
 </p>
 <br />
 
 <p>
 Stage 2: Assignment and Communication
 
-  Once a ticket is submitted, it gets assigned to an IT professional. To ensure a ticket is handled properly, the severity level may be adjusted. In this case, I change the Priority to "Emergency", the SLA Plan to "SEV-A", and assign the ticket to the "System Administrators" department. 
+  Once a ticket is submitted, it gets assigned to an IT professional. To ensure a ticket is handled properly, the severity level may be adjusted. In this case, I change the Priority to "Emergency", the SLA Plan to "SEV-A", and assigned the ticket to the "System Administrators" department. 
   
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/n8som/ticket-lifecycle/assets/110139109/772daa47-4aae-4d83-90b5-626f087b8bd4)
+
 </p>
 <br />
 
@@ -58,7 +57,9 @@ Stage 3: Working the Issue
   
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/n8som/ticket-lifecycle/assets/110139109/17f5c10f-196b-4c88-b6f3-778d51cbbbc5)
+
 </p>
 <br />
 
@@ -69,7 +70,11 @@ Stage 4: Resolution
   
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/n8som/ticket-lifecycle/assets/110139109/bcec2380-40f6-42b5-98f3-9d0b4ad6d5f7)
+
+![image](https://github.com/n8som/ticket-lifecycle/assets/110139109/9add09eb-92bb-4f32-a136-ddd0ee3a87c3)
+
 </p>
 <br />
 
